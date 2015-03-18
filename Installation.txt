@@ -1,0 +1,15 @@
+Installation
+
+If you are working on a CIP machine:
+    - Download Winpython 2.7.9.3 (64bit) from here: http://sourceforge.net/projects/winpython/files/WinPython_2.7/2.7.9.3/WinPython-64bit-2.7.9.3.exe/download
+    - Install it somewhere suitable (for example in "X:\" , which seems to be the network drive). Installation takes very long.
+    - In the directory where you installed winpython, double click "Ipython notebook.exe". After a very long time, the Ipython notebook home screen should appear in your browser.
+    - In the directory where you installed winpython, there is a folder "notebooks". Put the first two exercise notebooks (00 and 01) from studip there, and they should appear in Ipython notebooks' home screen.
+
+
+
+If you brought you own computer:
+    - if it is a windows computer, follow the steps above
+    - if it is a unixoid computer:
+        - make sure you have ipython version 2.3 or later installed, as well as the complete scipy stack & the statsmodels library.
+        - type "ipython notebook" in some directory where you intend to keep all the course materials.
